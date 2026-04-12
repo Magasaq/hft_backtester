@@ -1,0 +1,10 @@
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/hft_backtest.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/gen_data.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/run_tests.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/hft_lob.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/edit_cache.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/rebuild_cache.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/list_install_components.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/install.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/install/local.dir
+/Users/margarita/Desktop/hft_backtester/hft_backtest/build/CMakeFiles/install/strip.dir
